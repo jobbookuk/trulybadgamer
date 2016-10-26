@@ -1,0 +1,740 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc103              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc104              { /* Common */
+	border          :   0.00pt none #ff8080;
+	}
+.cc105              { /* Common */
+	font            : 9pt 'Arial', Helvetica, sans-serif;
+	color           : #a0a0a0;
+	}
+.cc106              { /* Common */
+	font            : bold 8pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc107              { /* Common */
+	font            : bold 9pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc108              { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,183.75pt,1.50pt,0.00pt);
+	}
+.cc109              { /* Common */
+	font            : 9pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc110              { /* Common */
+	clip            : rect(0.00pt,17.25pt,17.25pt,0.00pt);
+	}
+.cc111              { /* Common */
+	clip            : rect(0.00pt,16.50pt,16.50pt,0.00pt);
+	}
+.cc112              { /* Common */
+	border          :   0.00pt none #000000;
+	clip            : rect(0.00pt,615.00pt,2.25pt,0.00pt);
+	}
+span#e91            { /* tkd010045.gif */
+	background      : transparent url(tkd010045.gif) no-repeat top left;
+	position        : absolute;
+	left            :  69.00pt;
+	top             :   3.00pt;
+	width           : 616.50pt;
+	height          : 927.00pt;
+	}
+span#e90            { /* tkd010044.gif */
+	background      : transparent url(tkd010044.gif) no-repeat top left;
+	position        : absolute;
+	left            :  72.75pt;
+	top             : 151.50pt;
+	width           : 609.00pt;
+	height          :  37.50pt;
+	}
+span#e89            { /* tkd001051.jpg */
+	background      : transparent url(tkd001051.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  72.00pt;
+	top             :   6.75pt;
+	width           : 609.75pt;
+	height          : 163.50pt;
+	}
+span#e88            { /* tkd010043.jpg */
+	background      : transparent url(tkd010043.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 656.25pt;
+	top             : 127.50pt;
+	width           :  26.25pt;
+	height          :  21.75pt;
+	}
+img#e87             { /* tkd001059.jpg */
+	position        : absolute;
+	left            : 457.50pt;
+	top             : 884.25pt;
+	width           : 211.50pt;
+	height          :  18.75pt;
+	}
+div#e86             { /* © copyright 2015 taekwon... */
+	position        : absolute;
+	left            :  75.75pt;
+	top             : 881.25pt;
+	width           : 378.00pt;
+	height          :  16.50pt;
+	}
+div#e85             { /* +447718590243 | taekwond... */
+	position        : absolute;
+	left            :  75.75pt;
+	top             : 896.25pt;
+	width           : 378.00pt;
+	height          :  12.00pt;
+	}
+span#e84            { /* tkd010042.gif */
+	background      : transparent url(tkd010042.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 198.75pt;
+	width           : 401.25pt;
+	height          :  42.75pt;
+	}
+span#e83            { /* tkd010041.gif */
+	background      : transparent url(tkd010041.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 198.75pt;
+	width           : 401.25pt;
+	height          :  21.75pt;
+	}
+div#e82             { /* TAEKWON-DO MERTHYR TYDFI... */
+	position        : absolute;
+	left            :  87.00pt;
+	top             : 204.75pt;
+	width           : 255.75pt;
+	height          :  12.75pt;
+	}
+div#e81             { /* Here you can pay for you... */
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 226.50pt;
+	width           : 390.00pt;
+	height          :  12.75pt;
+	}
+span#e80            { /* tkd010040.gif */
+	background      : transparent url(tkd010040.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 240.75pt;
+	width           : 401.25pt;
+	height          : 115.50pt;
+	}
+span#e79            { /* tkd010039.gif */
+	background      : transparent url(tkd010039.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 240.75pt;
+	width           : 401.25pt;
+	height          :  21.75pt;
+	}
+div#e78             { /* CLASS FEES - £3.50 Per C... */
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 246.75pt;
+	width           : 255.75pt;
+	height          :  12.75pt;
+	}
+span#e77            { /* tkd010038.gif */
+	background      : transparent url(tkd010038.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 355.50pt;
+	width           : 401.25pt;
+	height          :  62.25pt;
+	}
+span#e76            { /* tkd010037.gif */
+	background      : transparent url(tkd010037.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 355.50pt;
+	width           : 401.25pt;
+	height          :  21.75pt;
+	}
+div#e75             { /* Monthly Training Fees £2... */
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 361.50pt;
+	width           : 255.75pt;
+	height          :  12.75pt;
+	}
+span#e74            { /* tkd010036.gif */
+	background      : transparent url(tkd010036.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 416.25pt;
+	width           : 401.25pt;
+	height          : 135.75pt;
+	}
+span#e73            { /* tkd010035.gif */
+	background      : transparent url(tkd010035.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 416.25pt;
+	width           : 401.25pt;
+	height          :  21.75pt;
+	}
+div#e72             { /* Beginners Pack £65 */
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 422.25pt;
+	width           : 255.75pt;
+	height          :  12.75pt;
+	}
+div#e71             { /* Here you can pay for you... */
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 285.75pt;
+	width           : 216.75pt;
+	height          :  42.75pt;
+	}
+div#e70             { /* Save up to £5 per month ... */
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 382.50pt;
+	width           : 225.00pt;
+	height          :  24.75pt;
+	}
+div#e69             { /* 1 Months Free Training +... */
+	position        : absolute;
+	left            : 195.00pt;
+	top             : 444.00pt;
+	width           : 279.00pt;
+	height          :  29.25pt;
+	}
+div#e68             {
+	position        : absolute;
+	left            : 316.50pt;
+	top             : 277.50pt;
+	width           : 154.50pt;
+	height          :  54.75pt;
+	}
+div#e67             {
+	position        : absolute;
+	left            : 374.25pt;
+	top             : 391.50pt;
+	width           :  96.00pt;
+	height          :  21.75pt;
+	}
+div#e66             {
+	position        : absolute;
+	left            : 375.00pt;
+	top             : 525.75pt;
+	width           :  96.00pt;
+	height          :  22.50pt;
+	}
+img#e65             { /* tkd001041.jpg */
+	position        : absolute;
+	left            : 488.25pt;
+	top             : 197.25pt;
+	width           : 182.25pt;
+	height          :  16.50pt;
+	}
+span#e64            { /* tkd010034.gif */
+	background      : transparent url(tkd010034.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 551.25pt;
+	width           : 401.25pt;
+	height          : 141.00pt;
+	}
+span#e63            { /* tkd010033.gif */
+	background      : transparent url(tkd010033.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 551.25pt;
+	width           : 401.25pt;
+	height          :  21.75pt;
+	}
+div#e62             { /* (Child) ITF Taekwon-do U... */
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 557.25pt;
+	width           : 255.75pt;
+	height          :  12.75pt;
+	}
+div#e61             {
+	position        : absolute;
+	left            :  89.25pt;
+	top             : 582.75pt;
+	width           : 225.00pt;
+	height          :  13.50pt;
+	}
+div#e60             {
+	position        : absolute;
+	left            : 339.00pt;
+	top             : 594.75pt;
+	width           : 132.00pt;
+	height          :  54.75pt;
+	}
+span#e59            { /* tkd010030.jpg */
+	background      : transparent url(tkd010030.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  81.75pt;
+	top             : 574.50pt;
+	width           : 115.50pt;
+	height          : 115.50pt;
+	}
+span#e58            { /* tkd010029.jpg */
+	background      : transparent url(tkd010029.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 196.50pt;
+	top             : 575.25pt;
+	width           : 111.75pt;
+	height          : 111.00pt;
+	}
+span#e57            { /* tkd010032.gif */
+	background      : transparent url(tkd010032.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 691.50pt;
+	width           : 401.25pt;
+	height          : 141.00pt;
+	}
+span#e56            { /* tkd010031.gif */
+	background      : transparent url(tkd010031.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             : 691.50pt;
+	width           : 401.25pt;
+	height          :  21.75pt;
+	}
+div#e55             { /* (Adult) ITF Taekwon-do U... */
+	position        : absolute;
+	left            :  82.50pt;
+	top             : 697.50pt;
+	width           : 255.75pt;
+	height          :  12.75pt;
+	}
+div#e54             {
+	position        : absolute;
+	left            :  89.25pt;
+	top             : 723.00pt;
+	width           : 225.00pt;
+	height          :  13.50pt;
+	}
+div#e53             {
+	position        : absolute;
+	left            : 339.00pt;
+	top             : 736.50pt;
+	width           : 132.00pt;
+	height          :  54.75pt;
+	}
+span#e52            { /* tkd010030.jpg */
+	background      : transparent url(tkd010030.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  81.75pt;
+	top             : 714.75pt;
+	width           : 115.50pt;
+	height          : 115.50pt;
+	}
+span#e51            { /* tkd010029.jpg */
+	background      : transparent url(tkd010029.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 196.50pt;
+	top             : 715.50pt;
+	width           : 111.75pt;
+	height          : 111.00pt;
+	}
+span#e50            { /* tkd010028.jpg */
+	background      : transparent url(tkd010028.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  84.00pt;
+	top             : 441.00pt;
+	width           : 107.25pt;
+	height          : 107.25pt;
+	}
+span#e49            { /* tkd010027.jpg */
+	background      : transparent url(tkd010027.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 207.00pt;
+	top             : 478.50pt;
+	width           : 153.00pt;
+	height          :  70.50pt;
+	}
+span#e48            { /* tkd010026.gif */
+	background      : transparent url(tkd010026.gif) no-repeat top left;
+	position        : absolute;
+	left            : 489.75pt;
+	top             : 241.50pt;
+	width           : 183.75pt;
+	height          :   1.50pt;
+	}
+span#e47            { /* tkd010025.gif */
+	background      : transparent url(tkd010025.gif) no-repeat top left;
+	position        : absolute;
+	left            : 489.75pt;
+	top             : 288.75pt;
+	width           : 183.75pt;
+	height          :   1.50pt;
+	}
+span#e46            { /* tkd010024.gif */
+	background      : transparent url(tkd010024.gif) no-repeat top left;
+	position        : absolute;
+	left            : 489.75pt;
+	top             : 268.50pt;
+	width           : 183.75pt;
+	height          :   1.50pt;
+	}
+span#e45            { /* tkd010023.gif */
+	background      : transparent url(tkd010023.gif) no-repeat top left;
+	position        : absolute;
+	left            : 489.75pt;
+	top             : 345.75pt;
+	width           : 183.75pt;
+	height          :   1.50pt;
+	}
+span#e44            { /* tkd010022.gif */
+	background      : transparent url(tkd010022.gif) no-repeat top left;
+	position        : absolute;
+	left            : 489.75pt;
+	top             : 325.50pt;
+	width           : 183.75pt;
+	height          :   1.50pt;
+	}
+img#e43             { /* tkd010021.jpg */
+	position        : absolute;
+	left            : 489.75pt;
+	top             : 219.75pt;
+	width           : 183.00pt;
+	height          : 162.00pt;
+	}
+div#e42             { /* T: +447718590243 \ \E: t... */
+	position        : absolute;
+	left            : 495.75pt;
+	top             : 351.75pt;
+	width           : 171.75pt;
+	height          :  23.25pt;
+	}
+span#e41            { /* tkd010020.gif */
+	background      : transparent url(tkd010020.gif) no-repeat top left;
+	position        : absolute;
+	left            : 489.75pt;
+	top             : 401.25pt;
+	width           : 183.75pt;
+	height          :   1.50pt;
+	}
+img#e40             { /* tkd010019.jpg */
+	position        : absolute;
+	left            : 489.75pt;
+	top             : 379.50pt;
+	width           : 183.00pt;
+	height          : 175.50pt;
+	}
+div#e39             {
+	position        : absolute;
+	left            : 520.50pt;
+	top             : 408.00pt;
+	width           : 137.25pt;
+	height          :  14.25pt;
+	}
+div#e38             {
+	position        : absolute;
+	left            : 520.50pt;
+	top             : 426.75pt;
+	width           : 137.25pt;
+	height          :  14.25pt;
+	}
+div#e37             {
+	position        : absolute;
+	left            : 520.50pt;
+	top             : 446.25pt;
+	width           : 137.25pt;
+	height          :  14.25pt;
+	}
+div#e36             {
+	position        : absolute;
+	left            : 520.50pt;
+	top             : 465.00pt;
+	width           : 151.50pt;
+	height          :  14.25pt;
+	}
+div#e35             {
+	position        : absolute;
+	left            : 520.50pt;
+	top             : 485.25pt;
+	width           : 137.25pt;
+	height          :  14.25pt;
+	}
+span#e34            { /* tkd001048.jpg */
+	background      : transparent url(tkd001048.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 496.50pt;
+	top             : 405.75pt;
+	width           :  17.25pt;
+	height          :  17.25pt;
+	}
+span#e33            { /* tkd001048.jpg */
+	background      : transparent url(tkd001048.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 496.50pt;
+	top             : 425.25pt;
+	width           :  17.25pt;
+	height          :  17.25pt;
+	}
+span#e32            { /* tkd001044.jpg */
+	background      : transparent url(tkd001044.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 496.50pt;
+	top             : 463.50pt;
+	width           :  16.50pt;
+	height          :  16.50pt;
+	}
+span#e31            { /* tkd001048.jpg */
+	background      : transparent url(tkd001048.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 496.50pt;
+	top             : 444.75pt;
+	width           :  17.25pt;
+	height          :  17.25pt;
+	}
+span#e30            { /* tkd001045.jpg */
+	background      : transparent url(tkd001045.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 494.25pt;
+	top             : 483.00pt;
+	width           :  21.00pt;
+	height          :  19.50pt;
+	}
+div#e29             {
+	position        : absolute;
+	left            : 520.50pt;
+	top             : 506.25pt;
+	width           : 137.25pt;
+	height          :  14.25pt;
+	}
+span#e28            { /* tkd001044.jpg */
+	background      : transparent url(tkd001044.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 496.50pt;
+	top             : 505.50pt;
+	width           :  16.50pt;
+	height          :  16.50pt;
+	}
+div#e27             {
+	position        : absolute;
+	left            : 520.50pt;
+	top             : 525.75pt;
+	width           : 172.50pt;
+	height          :  14.25pt;
+	}
+span#e26            { /* tkd001044.jpg */
+	background      : transparent url(tkd001044.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 496.50pt;
+	top             : 525.00pt;
+	width           :  16.50pt;
+	height          :  16.50pt;
+	}
+span#e25            { /* tkd010014.gif */
+	background      : transparent url(tkd010014.gif) no-repeat top left;
+	position        : absolute;
+	left            : 489.75pt;
+	top             : 588.00pt;
+	width           : 183.75pt;
+	height          :   1.50pt;
+	}
+img#e24             { /* tkd010013.jpg */
+	position        : absolute;
+	left            : 489.75pt;
+	top             : 566.25pt;
+	width           : 183.00pt;
+	height          : 292.50pt;
+	}
+img#e23             { /* tkd001041.jpg */
+	position        : absolute;
+	left            : 489.75pt;
+	top             : 195.75pt;
+	width           : 182.25pt;
+	height          :  16.50pt;
+	}
+div#e22             { /* Classes Cancelled Until ... */
+	position        : absolute;
+	left            : 495.75pt;
+	top             : 250.50pt;
+	width           : 171.00pt;
+	height          :  13.50pt;
+	}
+div#e21             {
+	position        : absolute;
+	left            : 492.75pt;
+	top             : 592.50pt;
+	width           : 177.75pt;
+	height          : 263.25pt;
+	}
+span#e20            { /* tkd010012.gif */
+	background      : transparent url(tkd010012.gif) no-repeat top left;
+	position        : absolute;
+	left            : 526.50pt;
+	top             : 171.75pt;
+	width           :   2.25pt;
+	height          :  18.00pt;
+	}
+span#e19            { /* tkd010011.gif */
+	background      : transparent url(tkd010011.gif) no-repeat top left;
+	position        : absolute;
+	left            : 474.75pt;
+	top             : 171.00pt;
+	width           :   2.25pt;
+	height          :  18.75pt;
+	}
+span#e18            { /* tkd010010.gif */
+	background      : transparent url(tkd010010.gif) no-repeat top left;
+	position        : absolute;
+	left            : 414.00pt;
+	top             : 171.75pt;
+	width           :   2.25pt;
+	height          :  18.00pt;
+	}
+span#e17            { /* tkd010009.gif */
+	background      : transparent url(tkd010009.gif) no-repeat top left;
+	position        : absolute;
+	left            : 339.00pt;
+	top             : 171.75pt;
+	width           :   2.25pt;
+	height          :  18.00pt;
+	}
+span#e16            { /* tkd010008.gif */
+	background      : transparent url(tkd010008.gif) no-repeat top left;
+	position        : absolute;
+	left            : 237.00pt;
+	top             : 171.75pt;
+	width           :   2.25pt;
+	height          :  18.00pt;
+	}
+span#e15            { /* tkd010007.gif */
+	background      : transparent url(tkd010007.gif) no-repeat top left;
+	position        : absolute;
+	left            : 167.25pt;
+	top             : 171.75pt;
+	width           :   2.25pt;
+	height          :  18.00pt;
+	}
+div#e14             { /* Home Page */
+	position        : absolute;
+	left            : 111.75pt;
+	top             : 174.75pt;
+	width           :  51.00pt;
+	height          :  11.25pt;
+	}
+div#e13             { /* Contact Us */
+	position        : absolute;
+	left            : 180.75pt;
+	top             : 174.75pt;
+	width           :  47.25pt;
+	height          :  11.25pt;
+	}
+div#e12             { /* About Taekwon-do */
+	position        : absolute;
+	left            : 250.50pt;
+	top             : 174.75pt;
+	width           :  80.25pt;
+	height          :  11.25pt;
+	}
+div#e11             { /* Instructors */
+	position        : absolute;
+	left            : 358.50pt;
+	top             : 174.75pt;
+	width           :  51.00pt;
+	height          :  11.25pt;
+	}
+div#e10             { /* Events */
+	position        : absolute;
+	left            : 430.50pt;
+	top             : 174.75pt;
+	width           :  36.00pt;
+	height          :  11.25pt;
+	}
+div#e9              { /* Shop */
+	position        : absolute;
+	left            : 607.50pt;
+	top             : 174.75pt;
+	width           :  30.75pt;
+	height          :  11.25pt;
+	}
+div#e8              { /* Student Area */
+	position        : absolute;
+	left            : 535.50pt;
+	top             : 174.75pt;
+	width           :  58.50pt;
+	height          :  11.25pt;
+	}
+span#e7             { /* tkd010006.jpg */
+	background      : transparent url(tkd010006.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 593.25pt;
+	top             : 171.00pt;
+	width           :   2.25pt;
+	height          :  18.00pt;
+	}
+span#e6             { /* tkd010005.gif */
+	background      : transparent url(tkd010005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  69.75pt;
+	top             : 170.25pt;
+	width           : 615.00pt;
+	height          :   2.25pt;
+	}
+span#e5             { /* tkd010004.gif */
+	background      : transparent url(tkd010004.gif) no-repeat top left;
+	position        : absolute;
+	left            :  70.50pt;
+	top             : 186.75pt;
+	width           : 615.00pt;
+	height          :   2.25pt;
+	}
+div#e4              { /* Gallery  */
+	position        : absolute;
+	left            : 486.75pt;
+	top             : 174.75pt;
+	width           :  30.75pt;
+	height          :  12.75pt;
+	}
+span#e3             { /* tkd010003.gif */
+	background      : transparent url(tkd010003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  24.75pt;
+	top             :   3.00pt;
+	width           :  38.25pt;
+	height          : 282.75pt;
+	}
+img#e2              { /* tkd001003.jpg */
+	position        : absolute;
+	left            :  28.50pt;
+	top             :   6.75pt;
+	width           :  33.00pt;
+	height          : 277.50pt;
+	}
+img#e1              { /* tkd001002.jpg */
+	position        : absolute;
+	left            :  26.25pt;
+	top             :   3.75pt;
+	width           :  34.50pt;
+	height          : 279.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #c0c0c0;
+	position        : relative;
+	width           : 745.50pt;
+	height          :1125.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #c0c0c0;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

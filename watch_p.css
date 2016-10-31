@@ -1,0 +1,426 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc54               { /* Common */
+	border          :   0.00pt none #15161a;
+	}
+.cc55               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc56               { /* Common */
+	font            : bold 12pt 'Calibri';
+	color           : #ffffff;
+	}
+.cc57               { /* Common */
+	font            : bold 18pt 'Calibri';
+	color           : #ffffff;
+	}
+.cc58               { /* Common */
+	font            : bold 18pt 'Calibri';
+	color           : #7ae241;
+	}
+.cc59               { /* Common */
+	font            : 10pt 'Calibri';
+	color           : #7ae241;
+	}
+.cc60               { /* Common */
+	font            : bold 12pt 'Calibri';
+	color           : #7ae241;
+	}
+.cc61               { /* Common */
+	border          :   1.50pt solid #000000;
+	}
+.cc62               { /* Common */
+	font            : 10pt 'Calibri';
+	color           : #404040;
+	}
+.cc63               { /* Common */
+	font            : 12pt 'Calibri';
+	color           : #ffffff;
+	}
+.cc64               { /* Common */
+	font            : bold 12pt 'Calibri';
+	color           : #ff0099;
+	}
+.cc65               { /* Common */
+	font            : 10pt 'Calibri';
+	color           : #ffffff;
+	}
+.cc66               { /* Common */
+	border          :   2.25pt solid #000000;
+	}
+.cc67               { /* Common */
+	border          :   0.00pt none #7ae241;
+	clip            : rect(0.00pt,35.25pt,2.25pt,0.00pt);
+	}
+span#e47            { /* trulybadgamer005019.gif */
+	background      : transparent url(trulybadgamer005019.gif) no-repeat top left;
+	position        : absolute;
+	left            :  30.75pt;
+	top             :  38.25pt;
+	width           : 655.50pt;
+	height          : 582.75pt;
+	}
+span#e46            { /* trulybadgamer003023.jpg */
+	background      : transparent url(trulybadgamer003023.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 306.75pt;
+	top             :  28.50pt;
+	width           : 384.00pt;
+	height          : 403.50pt;
+	}
+span#e45            { /* trulybadgamer003022.jpg */
+	background      : transparent url(trulybadgamer003022.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  36.75pt;
+	top             :  33.00pt;
+	width           : 384.00pt;
+	height          : 384.00pt;
+	}
+span#e44            { /* trulybadgamer005016.gif */
+	background      : transparent url(trulybadgamer005016.gif) no-repeat top left;
+	position        : absolute;
+	left            :  30.75pt;
+	top             :   0.00pt;
+	width           : 657.00pt;
+	height          :  65.25pt;
+	}
+span#e43            { /* trulybadgamer002012.jpg */
+	background      : transparent url(trulybadgamer002012.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 373.50pt;
+	top             :   5.25pt;
+	width           : 315.00pt;
+	height          :  60.00pt;
+	}
+span#e42            { /* trulybadgamer005014.gif */
+	background      : transparent url(trulybadgamer005014.gif) no-repeat top left;
+	position        : absolute;
+	left            :  29.25pt;
+	top             :  57.75pt;
+	width           : 657.00pt;
+	height          :  43.50pt;
+	}
+span#e41            { /* trulybadgamer003018.jpg */
+	background      : transparent url(trulybadgamer003018.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 490.50pt;
+	top             :  59.25pt;
+	width           : 196.50pt;
+	height          :  43.50pt;
+	}
+div#e40             { /* WATCH */
+	position        : absolute;
+	left            :  42.75pt;
+	top             :  72.75pt;
+	width           :  49.50pt;
+	height          :  16.50pt;
+	}
+div#e39             { /* TRULY */
+	position        : absolute;
+	left            : 117.00pt;
+	top             :  12.00pt;
+	width           :  49.50pt;
+	height          :  21.75pt;
+	}
+div#e38             { /* BAD */
+	position        : absolute;
+	left            : 165.75pt;
+	top             :  12.00pt;
+	width           :  49.50pt;
+	height          :  24.75pt;
+	}
+div#e37             { /* GAMER */
+	position        : absolute;
+	left            : 202.50pt;
+	top             :  12.00pt;
+	width           :  60.75pt;
+	height          :  26.25pt;
+	}
+div#e36             { /* "if you're going to game... */
+	position        : absolute;
+	left            : 118.50pt;
+	top             :  33.00pt;
+	width           : 234.75pt;
+	height          :  17.25pt;
+	}
+span#e35            { /* trulybadgamer001032.jpg */
+	background      : transparent url(trulybadgamer001032.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  38.25pt;
+	top             :  10.50pt;
+	width           :  76.50pt;
+	height          :  46.50pt;
+	}
+span#e34            { /* trulybadgamer005012.gif */
+	background      : transparent url(trulybadgamer005012.gif) no-repeat top left;
+	position        : absolute;
+	left            :  30.00pt;
+	top             : 352.50pt;
+	width           : 657.00pt;
+	height          :  43.50pt;
+	}
+span#e33            { /* trulybadgamer001013.jpg */
+	background      : transparent url(trulybadgamer001013.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 513.00pt;
+	top             : 359.25pt;
+	width           : 174.75pt;
+	height          :  34.50pt;
+	}
+div#e32             { /* CURRENT TEAMS */
+	position        : absolute;
+	left            :  43.50pt;
+	top             : 367.50pt;
+	width           : 109.50pt;
+	height          :  16.50pt;
+	}
+span#e31            { /* trulybadgamer001030.jpg */
+	background      : transparent url(trulybadgamer001030.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 369.75pt;
+	top             : 406.50pt;
+	width           : 304.50pt;
+	height          :  77.25pt;
+	}
+span#e30            { /* trulybadgamer001029.jpg */
+	background      : transparent url(trulybadgamer001029.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 378.75pt;
+	top             : 413.25pt;
+	width           :  20.25pt;
+	height          :  20.25pt;
+	}
+span#e29            { /* trulybadgamer001021.jpg */
+	background      : transparent url(trulybadgamer001021.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 402.00pt;
+	top             : 412.50pt;
+	width           :  25.50pt;
+	height          :  21.75pt;
+	}
+span#e28            { /* trulybadgamer001028.jpg */
+	background      : transparent url(trulybadgamer001028.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 618.00pt;
+	top             : 449.25pt;
+	width           :  56.25pt;
+	height          :  31.50pt;
+	}
+span#e27            { /* trulybadgamer001027.jpg */
+	background      : transparent url(trulybadgamer001027.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  42.00pt;
+	top             : 406.50pt;
+	width           : 303.75pt;
+	height          :  76.50pt;
+	}
+span#e26            { /* trulybadgamer001026.jpg */
+	background      : transparent url(trulybadgamer001026.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  45.75pt;
+	top             : 412.50pt;
+	width           :  20.25pt;
+	height          :  20.25pt;
+	}
+span#e25            { /* trulybadgamer005007.gif */
+	background      : transparent url(trulybadgamer005007.gif) no-repeat top left;
+	position        : absolute;
+	left            :  42.00pt;
+	top             : 453.75pt;
+	width           :  74.25pt;
+	height          :  20.25pt;
+	}
+div#e24             { /* TEAM DUTY */
+	position        : absolute;
+	left            :  43.50pt;
+	top             : 456.00pt;
+	width           : 261.75pt;
+	height          :  16.50pt;
+	}
+span#e23            { /* trulybadgamer005006.gif */
+	background      : transparent url(trulybadgamer005006.gif) no-repeat top left;
+	position        : absolute;
+	left            : 369.75pt;
+	top             : 453.75pt;
+	width           :  87.00pt;
+	height          :  20.25pt;
+	}
+div#e22             { /* TEAM DOOM */
+	position        : absolute;
+	left            : 372.75pt;
+	top             : 456.00pt;
+	width           : 102.00pt;
+	height          :  16.50pt;
+	}
+div#e21             {
+	position        : absolute;
+	left            :  70.50pt;
+	top             : 519.00pt;
+	width           : 440.25pt;
+	height          :  13.50pt;
+	}
+div#e20             { /* Copyright 2016 - Truly B... */
+	position        : absolute;
+	left            :  36.00pt;
+	top             : 558.75pt;
+	width           : 494.25pt;
+	height          :  54.00pt;
+	}
+span#e19            { /* trulybadgamer005005.gif */
+	background      : transparent url(trulybadgamer005005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  30.75pt;
+	top             : 509.25pt;
+	width           : 657.00pt;
+	height          :  43.50pt;
+	}
+div#e18             { /* ADDITIONAL INFO. */
+	position        : absolute;
+	left            :  39.75pt;
+	top             : 524.25pt;
+	width           : 109.50pt;
+	height          :  16.50pt;
+	}
+span#e17            { /* trulybadgamer001013.jpg */
+	background      : transparent url(trulybadgamer001013.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 513.00pt;
+	top             : 514.50pt;
+	width           : 174.75pt;
+	height          :  34.50pt;
+	}
+span#e16            { /* trulybadgamer001006.jpg */
+	background      : transparent url(trulybadgamer001006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 111.00pt;
+	width           : 310.50pt;
+	height          : 225.75pt;
+	}
+span#e15            { /* trulybadgamer001006.jpg */
+	background      : transparent url(trulybadgamer001006.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 364.50pt;
+	top             : 110.25pt;
+	width           : 310.50pt;
+	height          : 225.75pt;
+	}
+span#e14            { /* trulybadgamer005003.gif */
+	background      : transparent url(trulybadgamer005003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 515.25pt;
+	top             : 162.00pt;
+	width           : 161.25pt;
+	height          :  51.75pt;
+	}
+span#e13            { /* trulybadgamer005002.gif */
+	background      : transparent url(trulybadgamer005002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 186.00pt;
+	top             : 162.00pt;
+	width           : 161.25pt;
+	height          :  57.00pt;
+	}
+div#e12             { /* MCPOTATOGAMER (Oct'16) */
+	position        : absolute;
+	left            : 518.25pt;
+	top             : 165.75pt;
+	width           : 161.25pt;
+	height          :  16.50pt;
+	}
+div#e11             { /* MCPOTATOGAMER (Sept'16) */
+	position        : absolute;
+	left            : 191.25pt;
+	top             : 165.75pt;
+	width           : 175.50pt;
+	height          :  16.50pt;
+	}
+div#e10             { /* Gameplay - COD Black Ops... */
+	position        : absolute;
+	left            : 191.25pt;
+	top             : 183.75pt;
+	width           : 187.50pt;
+	height          :  24.75pt;
+	}
+div#e9              {
+	position        : absolute;
+	left            :  39.75pt;
+	top             : 223.50pt;
+	width           : 187.50pt;
+	height          : 105.75pt;
+	}
+div#e8              {
+	position        : absolute;
+	left            : 478.50pt;
+	top             : 223.50pt;
+	width           : 187.50pt;
+	height          : 105.75pt;
+	}
+span#e7             { /* trulybadgamer005001.jpg */
+	background      : transparent url(trulybadgamer005001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 590.25pt;
+	top             :  24.75pt;
+	width           :  35.25pt;
+	height          :   2.25pt;
+	}
+div#e6              { /* HOME */
+	position        : absolute;
+	left            : 341.25pt;
+	top             :  10.50pt;
+	width           :  49.50pt;
+	height          :  18.00pt;
+	}
+div#e5              { /* NEWS */
+	position        : absolute;
+	left            : 396.00pt;
+	top             :  10.50pt;
+	width           :  49.50pt;
+	height          :  18.00pt;
+	}
+div#e4              { /* SPONSERS */
+	position        : absolute;
+	left            : 515.25pt;
+	top             :  10.50pt;
+	width           :  68.25pt;
+	height          :  18.00pt;
+	}
+div#e3              { /* WATCH */
+	position        : absolute;
+	left            : 590.25pt;
+	top             :  10.50pt;
+	width           :  54.00pt;
+	height          :  18.00pt;
+	}
+div#e2              { /* TEAM */
+	position        : absolute;
+	left            : 457.50pt;
+	top             :  10.50pt;
+	width           :  49.50pt;
+	height          :  18.00pt;
+	}
+div#e1              { /* CONTACT */
+	position        : absolute;
+	left            : 646.50pt;
+	top             :  10.50pt;
+	width           :  54.00pt;
+	height          :  16.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #000000;
+	position        : relative;
+	width           : 712.50pt;
+	height          : 637.50pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #000000;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
